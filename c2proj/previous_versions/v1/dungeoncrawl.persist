@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<persistence>
+    <windows>
+        <layout name="Dungeon Prime" scroll-x="350" scroll-y="373" active="yes" />
+    </windows>
+</persistence>

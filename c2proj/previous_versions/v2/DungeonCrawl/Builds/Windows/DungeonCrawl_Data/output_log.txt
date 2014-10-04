@@ -1,0 +1,14 @@
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 8.17.12.6959]
+    Renderer: Intel(R) HD Graphics Family
+    Vendor:   Intel
+    VRAM:     64 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+desktop: 1600x900 60Hz; virtual: 2880x1024 at -1280,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-088A0048 (this message is harmless)
+Non platform assembly: data-03717B68 (this message is harmless)
+Non platform assembly: data-0371ADD8 (this message is harmless)
+Non platform assembly: data-0371FFE8 (this message is harmless)
+Non platform assembly: data-037261F0 (this message is harmless)
